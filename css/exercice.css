@@ -34,7 +34,7 @@ order: -1;
 .exercice-order-3 .element-gray {
   order: 1;
   }
-  
+
 .exercice-order-3 .element-pink {
 order: 2;
 }
@@ -47,7 +47,26 @@ order: 3;
 order: 4;
 }
 /* 5. exercice-align-self-1*/
+ .exercice-align-self-1 .element-red {
+  order: 5;
+ }
 
+ .exercice-align-self-1 .element-gray{
+  order: -1;
+ }
+
+ .exercice-align-self-1 .element-blue {
+  order: 4;
+ }
+
+.exercice-align-self-1 .element-green {
+  order: 3;
+}
+
+.exercice-align-self-1 .element-yellow {
+  order: 2;
+  align-self: flex-end;
+}
 
 /* 6. exercice-align-self-2*/
 
