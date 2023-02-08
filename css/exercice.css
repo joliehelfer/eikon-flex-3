@@ -27,7 +27,25 @@ flex-direction: column;
 
 /* 4. exercice-order-3 */
 
+.exercice-order-3 .element-blue {
+order: -1;
+}
 
+.exercice-order-3 .element-gray {
+  order: 1;
+  }
+  
+.exercice-order-3 .element-pink {
+order: 2;
+}
+
+.exercice-order-3 .element-yellow {
+order: 3;
+}
+
+.exercice-order-3 .element-green {
+order: 4;
+}
 /* 5. exercice-align-self-1*/
 
 
